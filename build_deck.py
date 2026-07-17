@@ -774,7 +774,7 @@ html = f"""<!doctype html>
     <section class="slide red">
       <div class="cover-client">{CLIENT_LOGO_HTML}</div>
       <div class="cover-title">
-        <h1>Check-in de Quarter</h1>
+        <h1>Diagnóstico de saída</h1>
         <p>{CLIENT_NAME} | Q2 2026</p>
       </div>
       <div class="orb" style="width:420px;height:420px;right:-70px;top:-120px"></div>
